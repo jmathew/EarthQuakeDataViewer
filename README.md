@@ -7,7 +7,7 @@ This is a simple application created to test out the Apache Struts framework. It
 **Environment Setup**
  *  Requires
    * Apache Ant
-   * Mysql
+   * Mysql ( Configured with networking )
    * Tomcat 7
  * Use *database.sql* in *<root>/res/* to create the database
 
