@@ -10,8 +10,9 @@
   </head>
 
   <body>
-    <p> This is a simple project that uses the Struts 2 frame work and interacts with a database </p>
-    <a href="<s:url action='showTable'/>"> Pull information from database </a>
+    <p> This is a simple project that uses the Struts 2 frame work and interacts with a database. The fancy table uses jQuery and the plugin <a href="http://tablesorter.com">tablesorter</a></p>
+    <a href="<s:url action='showTable'/>"> Pull information from database </a><br>
+    <a href="<s:url action='showFancyTable'/>"> Pull information from database and put it in a fancy table</a>
   </body>
 
 </html>
