@@ -26,5 +26,6 @@ This is a simple application created to test out the Apache Struts framework. It
    * http://localhost:8080/EarthQuakeDataViewer/
 
 **Screenshot**
+
 ![Screenshot](https://lh3.googleusercontent.com/-Ly7sf_xEUQo/UHpvS2WJbpI/AAAAAAAAAKI/FCMLVrbOdvk/s640/screenshot.png)
 
